@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="playSkin" width="720" height="1280" xmlns:e="http://ns.egret.com/eui">
+    <e:Group id="mainGroup" width="600" height="600" horizontalCenter="0" verticalCenter="0">
+        <e:layout>
+            <e:TileLayout horizontalGap="4" verticalGap="4"/>
+        </e:layout>
+    </e:Group>
+</e:Skin>

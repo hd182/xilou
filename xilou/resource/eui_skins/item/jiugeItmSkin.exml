@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="jiugeItmSkin" width="200" height="200" xmlns:e="http://ns.egret.com/eui">
+    <e:Rect id="q1" width="130" height="130" ellipseHeight="130" ellipseWidth="130" fillColor="0xff0000" verticalCenter="0" horizontalCenter="0" fillAlpha="0"/>
+    <e:Rect width="110" height="110" ellipseHeight="110" ellipseWidth="110" fillColor="0x000000" verticalCenter="0" horizontalCenter="0"/>
+
+    <e:Rect id="q2" width="90" height="90" ellipseHeight="90" ellipseWidth="90" fillColor="0xff0000" verticalCenter="0" horizontalCenter="0" fillAlpha="0"/>
+    <e:Rect width="70" height="70" ellipseHeight="70" ellipseWidth="70" fillColor="0x000000" verticalCenter="0" horizontalCenter="0"/>
+
+    <e:Rect id="q3" width="50" height="50" ellipseHeight="50" ellipseWidth="50" fillColor="0xff0000" verticalCenter="0" horizontalCenter="0" fillAlpha="0"/>
+    <e:Rect width="30" height="30" ellipseHeight="30" ellipseWidth="30" fillColor="0x000000" verticalCenter="0" horizontalCenter="0"/>
+    
+    <e:Rect fillColor="0xcccccc" horizontalCenter="0" verticalCenter="0" width="10" height="10" ellipseWidth="10" ellipseHeight="10"/>
+</e:Skin>
